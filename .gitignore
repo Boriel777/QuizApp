@@ -1,6 +1,7 @@
 # Dependencies
 node_modules/
 package-lock.json.bak
+Quizapp Dark
 
 # Environment / secrets
 .env
